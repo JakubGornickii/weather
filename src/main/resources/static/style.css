@@ -1,0 +1,38 @@
+body
+{
+    background:#42aaf4;
+}
+.main
+{
+    width: 1000px;
+    height: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+.main h1
+{
+    font-weight: 900;
+    font-size: 72px;
+    letter-spacing: 5px;
+    font-family: 'Lato', sans-serif;
+
+}
+.main h2
+{
+    font-size: 28px;
+}
+.image
+{
+    width: 300px;
+    margin-right: auto;
+    margin-left: auto;,
+}
+
+.image img
+{
+    max-width:100%;
+    max-height:100%;
+    margin:auto;
+    display:block;
+}
